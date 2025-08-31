@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "role": "CEO, TechCorp",
+    "feedback": "Devansh is a fantastic developer! He delivered our project on time and exceeded expectations.",
+    "image": "photo.png"
+  },
+  {
+    "name": "James Cameron",
+    "role": "Product Manager, StartupX",
+    "feedback": "Creative, detail-oriented, and highly professional. Highly recommend working with him.",
+    "image": "/abcd.png"
+  },
+  {
+    "name": "Michael Smith",
+    "role": "Freelance Client",
+    "feedback": "Great communication and top-quality code. I will definitely hire him again.",
+    "image": "/efgh.png"
+  }
+]

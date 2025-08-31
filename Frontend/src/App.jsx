@@ -7,6 +7,7 @@ import Projects from "./components/Projects.jsx";
 import Footer from "./components/Footer.jsx";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Testimonials from "./components/Testimonials.jsx";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
       <Skills />
       <Projects />
       <ContactForm />
+      <Testimonials />
       <Footer />
     </div>
   );

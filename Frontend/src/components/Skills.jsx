@@ -1,12 +1,14 @@
 import React from "react";
-import { FaReact, FaHtml5, FaCss3Alt, FaJs, FaNodeJs } from "react-icons/fa";
+import { FaReact, FaHtml5, FaCss3Alt, FaJs, FaPhp, FaNodeJs, FaCube } from "react-icons/fa";
 
 const skills = [
   { icon: <FaReact />, name: "React" },
   { icon: <FaHtml5 />, name: "HTML5" },
   { icon: <FaCss3Alt />, name: "CSS3" },
   { icon: <FaJs />, name: "JavaScript" },
-  { icon: <FaNodeJs />, name: "Node.js" }
+  { icon: <FaPhp />, name: "PHP" },
+  { icon: <FaNodeJs />, name: "Node" },
+  { icon: <FaCube />, name: "Next.js" }
 ];
 
 const Skills = () => {
