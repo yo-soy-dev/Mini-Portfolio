@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "HOTEL-BOOKING APPLICATION",
+    "description": "A full-stack hotel booking application built with MERN, Clerk, and Stripe, featuring secure authentication, seamless payments, and an admin dashboard for efficient property and reservation management.",
+    "link": "https://hotel-booking-five-sigma.vercel.app"
+  },
+  {
+    "id": 2,
+    "title": "REAL-TIME VIDEO CALLING AND SOCIAL CHAT APPLICATION",
+    "description": "A real-time video calling and social chat application built with the MERN stack, Stream Video SDK, and JWT, featuring secure authentication, private messaging, dynamic theming, and optimized WebSocket APIs for low-latency performance.",
+    "link": "https://streamify-video-calls-kxqc.onrender.com"
+  },
+  {
+    "id": 3,
+    "title": "FOOD-DELIVERY APPLICATION",
+    "description": "A responsive food delivery application built with the MERN stack and Stripe, offering secure authentication, real-time order tracking, and an admin dashboard for restaurant and order management.",
+    "link": "https://food-del-frontend-u63f.onrender.com"
+  }
+]
